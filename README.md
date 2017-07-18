@@ -2,7 +2,7 @@
 
 https://github.com/makersacademy/course/tree/master/makersbnb
 
-Web application allowing users to list spaces available and for hire.
+Web application for listing spaces for hire.
 
 ### Setup
 
@@ -82,7 +82,7 @@ email communications to customer
  - They request to book a space
  - Their request to book a space is confirmed
  - Their request to book a space is denied
- 
+
 - Users should receive a text message to a provided number whenever one of the following happens:
  - A user requests to book their space
  - Their request to book a space is confirmed
