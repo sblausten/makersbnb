@@ -2,11 +2,11 @@
 
 https://github.com/makersacademy/course/tree/master/makersbnb
 
-We would like a web application that allows users to list spaces they have available, and to hire spaces for the night.
+Web application allowing users to list spaces available and for hire.
 
 ### Setup
 
-sequelize db:migrate 
+sequelize db:migrate
 sequelize db:migrate --env="test"
 
 
@@ -76,13 +76,13 @@ email communications to customer
 
 - Users should receive an email whenever one of the following happens:
  - They sign up
- - They create a
  - They update a space
  - A user requests to book their space
  - They confirm a request
  - They request to book a space
  - Their request to book a space is confirmed
  - Their request to book a space is denied
+ 
 - Users should receive a text message to a provided number whenever one of the following happens:
  - A user requests to book their space
  - Their request to book a space is confirmed
